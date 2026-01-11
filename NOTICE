@@ -1,0 +1,60 @@
+# Jina Embeddings v4 - Third Party Notices
+
+This Docker container includes components from Jina AI and Alibaba/Qwen.
+
+## Jina Embeddings v4
+
+Copyright 2024-2025 Jina AI GmbH
+https://jina.ai
+
+The following components are derived from or use code from the
+jinaai/jina-embeddings-v4 model:
+
+- Model weights and configuration (jinaai/jina-embeddings-v4)
+- Processor and tokenizer configurations
+- PEFT/LoRA adapter definitions
+- Matryoshka embedding logic
+- Multi-vector encoding patterns
+
+Source: https://huggingface.co/jinaai/jina-embeddings-v4
+
+### License
+
+The jina-embeddings-v4 model is licensed under the **Qwen Research License**,
+as it is derived from Qwen2.5-VL-3B-Instruct.
+
+Key terms of the Qwen Research License:
+
+- Commercial use is permitted for entities with fewer than 100 million
+  monthly active users
+- Entities with 100 million or more monthly active users require a
+  separate license from Alibaba Group
+- The license requires attribution to both Jina AI and Qwen/Alibaba
+
+For the full license text, see:
+https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct/blob/main/LICENSE
+
+## Qwen2.5-VL-3B-Instruct (Base Model)
+
+Copyright 2024-2025 Alibaba Group
+https://qwenlm.github.io/
+
+The base model used by jina-embeddings-v4 is Qwen2.5-VL-3B-Instruct,
+licensed under the Qwen Research License.
+
+---
+
+## Modifications by Quadux IT GmbH
+
+The following modifications and additions were made by Quadux IT GmbH
+and are licensed under the Apache License 2.0 (see LICENSE file):
+
+- Dockerfile and container configuration
+- FastAPI server wrapper (app.py - Quadux-specific parts)
+- Start scripts (start.bat, start.sh)
+- Test suite and test images
+- Documentation (README.md, CHANGELOG.md)
+- Build and deployment automation
+
+These modifications are clearly marked in the source files with the
+Quadux IT GmbH copyright header.
