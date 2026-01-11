@@ -42,6 +42,11 @@ https://qwenlm.github.io/
 The base model used by jina-embeddings-v4 is Qwen2.5-VL-3B-Instruct,
 licensed under the Qwen Research License.
 
+**Built with Qwen** (Qwen2.5-VL-3B-Instruct)
+
+As required by Section 4.b of the Qwen Research License, this product
+is built using the Qwen2.5-VL-3B-Instruct model from Alibaba Cloud.
+
 ---
 
 ## Modifications by Quadux IT GmbH

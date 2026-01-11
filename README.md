@@ -2,7 +2,7 @@
 
 Copyright © 2025-2026 Quadux IT GmbH
 
-License: Quadux files Apache 2.0 (see LICENSE), SigLIP model: Apache 2.0 (Google)
+License: Quadux files Apache 2.0 (see LICENSE), Jina model: Qwen Research License
 Author: Walter Hoffmann
 
 # Jina Embeddings v4 API
@@ -327,7 +327,7 @@ jina-embeddings-v4-docker/
 - **Base Image:** `pytorch/pytorch:2.9.1-cuda13.0-cudnn9-runtime`
 - **GPU:** RTX 5090 (Blackwell, sm_120) Support
 - **Modell:** `jinaai/jina-embeddings-v4` mit PEFT Wrapper
-- **Basis-Modell:** Qwen2.5-VL-3B-Instruct (3.8B Parameter)
+- **Basis-Modell:** Qwen2.5-VL-3B-Instruct (3.8B Parameter) - Built with Qwen
 - **Embedding Dimension:** 2048 (Matryoshka: 128-2048)
 - **Max. Kontextlänge:** 32.768 Tokens (offiziell unterstützt)
 - **Tokenizer Max:** 131.072 Tokens (128K, vom Basis-Modell)
