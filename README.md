@@ -368,7 +368,7 @@ Das Modell `jinaai/jina-embeddings-v4` basiert auf Qwen2.5-VL-3B-Instruct und st
 
 Weitere Details:
 
-- **[NOTICE](NOTICE)** – Third-Party-Hinweise zu Jina AI und Qwen/Alibaba
+- **[NOTICE](build/NOTICE)** – Third-Party-Hinweise zu Jina AI und Qwen/Alibaba
 - **[Qwen License](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct/blob/main/LICENSE)** – Volltext der Qwen Research License
 
 ### Testbilder

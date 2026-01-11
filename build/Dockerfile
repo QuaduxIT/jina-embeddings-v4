@@ -45,7 +45,7 @@ ENV HF_HUB_OFFLINE=1 \
 
 # Install fonts for document image generation (after model download to preserve cache)
 RUN apt-get update && apt-get install -y --no-install-recommends fonts-dejavu-core \
- && rm -rf /var/lib/apt/lists/*`
+ && rm -rf /var/lib/apt/lists/*
  
 COPY LICENSE /app/LICENSE
 COPY NOTICE /app/NOTICE
