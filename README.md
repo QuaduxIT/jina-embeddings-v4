@@ -389,3 +389,6 @@ Die Testbilder stammen von Unsplash und unterliegen der [Unsplash License](https
 > - **Jina AI:** [jina.ai](https://jina.ai) – die Firma hinter Jina Embeddings
 >
 > &nbsp;
+## Impressum
+
+[Impressum Quadux IT GmbH](https://quadux.it)

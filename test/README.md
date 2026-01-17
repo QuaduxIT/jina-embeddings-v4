@@ -38,7 +38,7 @@ Alle Bilder stammen von [Unsplash](https://unsplash.com) und sind unter der [Uns
 | `test_sales_chart.png`  | Analytics / Sales-Chart   | Carlos Muza           | [unsplash.com/photos/hpjSkU2UYSU](https://unsplash.com/photos/hpjSkU2UYSU) |
 | `test_invoice.png`      | Finanzdokument / Rechnung | Ash Edmonds           | [unsplash.com/photos/Koxa-GX_5zs](https://unsplash.com/photos/Koxa-GX_5zs) |
 | `test_table.png`        | Tabelle / Notizen         | Glenn Carstens-Peters | [unsplash.com/photos/RLw-UC03Gwc](https://unsplash.com/photos/RLw-UC03Gwc) |
-| `test_architecture.png` | Technischer Arbeitsplatz  | Glenn Carstens-Peters | [unsplash.com/photos/RLw-UC03Gwc](https://unsplash.com/photos/RLw-UC03Gwc) |
+| `test_architecture.png` | Software-Flowchart        | Alvaro Reyes          | [unsplash.com/photos/qWwpHwip31M](https://unsplash.com/photos/qWwpHwip31M) |
 
 ## Auflösung
 
